@@ -1,7 +1,7 @@
 {
-  "name": "discordjs-music-plugin",
+  "name": "kqrma-music-api",
   "version": "14.1.0",
-  "description": "A simple Node.js based music extension/bot for Discord.js projects using YouTube.",
+  "description": "api musica kqrma",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -17,7 +17,7 @@
 },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TorrenTamm/discordjs-musicbot-plugin.git"
+    "url": "git+https://github.com/easilyKqrma/kqrma-music-api.git"
   },
   "keywords": [
     "\"discord\"",
